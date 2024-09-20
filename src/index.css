@@ -10,6 +10,8 @@ body{
   min-height: 100vh;
   /*background-image: linear-gradient(to top, #0f1531, #1a2554);*/
   background-color: black;
+  background: linear-gradient(to bottom, #000000, #1e1e1e);
+
 
 
 }

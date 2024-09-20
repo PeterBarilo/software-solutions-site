@@ -51,12 +51,12 @@
 
 .start{
     padding: 15px 20px;
-    background-color: #5271ff;
+    background: linear-gradient(to right, #38b6ff, #5e17eb);
     border: 2px solid #5271ff;
     color: #eeeeee;
     border-radius: 5px;
     cursor: pointer;
-    font-size: 17px;
+    font-size: 18px;
     transition: all 0.4s ease; /* Smooth transition for all properties */
     position: relative;
     overflow: hidden; /* To hide the expanding effect initially */
@@ -71,7 +71,7 @@
     border-radius: 5px;
     transition: .3s;
     cursor: pointer;
-    font-size: 17px;
+    font-size: 18px;
     transition: .3s;
 }
 
