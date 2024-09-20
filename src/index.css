@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+  font-family: Montserrat;
+}
+body{
+  min-height: 100vh;
+  /*background-image: linear-gradient(to top, #0f1531, #1a2554);*/
+  background-color: black;
+
+
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+.app{
+  width: 100%;
+  margin: auto;
+}
+
+/* #38b6ff
+#5e17eb 
+#5271ff
+*/
