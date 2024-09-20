@@ -51,6 +51,14 @@
     transition: color 0.3s ease;
 }
 
+.services img{
+    width: 25px;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: -15px;
+    cursor: pointer;
+}
+
 .nav li {
     position: relative;
     display: inline-block;

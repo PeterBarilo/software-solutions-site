@@ -6,5 +6,6 @@ import logoLongWhite from './longlogoWhite.png'
 import dark from './dark.png'
 import light from './light.png'
 import grid from './debc77cf8107d5fc25a3b9173060f231.png'
+import dropdown_darkmode from './dropdown_darkmode.png'
 
-export const assets = {logoLong, search, logoSquare,logoText, logoLongWhite, dark, light, grid}
+export const assets = {logoLong, search, logoSquare,logoText, logoLongWhite, dark, light, grid, dropdown_darkmode}

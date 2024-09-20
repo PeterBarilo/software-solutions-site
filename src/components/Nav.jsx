@@ -11,7 +11,11 @@ const Nav = () => {
             <img src={assets.logoText} alt="" className='logo2'/>
         <ul className="menu">
             <li>Home</li>
-            <li>Services</li>
+            <div className='services'>
+              <li>Services</li>
+              <img src={assets.dropdown_darkmode} alt="" />
+            </div>
+            
             <li>DevSec Special</li>
             <li>About Us</li>
             <hr />
